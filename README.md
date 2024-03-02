@@ -12,5 +12,3 @@ To explore the solutions:
 ## Disclaimer
 
 Please note that these solutions are provided for reference purposes only. They may not always represent the most optimal or efficient solutions, as the primary goal is to demonstrate problem-solving approaches and techniques.
-
-Happy coding!
